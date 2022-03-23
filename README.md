@@ -14,3 +14,4 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'pages.apps.PagesConfig', # новое
 ]
+(pages) $ python manage.py runserver
